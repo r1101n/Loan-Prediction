@@ -1,0 +1,101 @@
+customer_id,name,income,age,marital_status,home_ownership,car_ownership,profession,years_in_current_job,credit_score
+7c687617-a7f5-4060-9e37-6f93f47563d4,Madeline Taylor,90759.04,18,Divorced,Rent,TRUE,Data processing manager,19,362
+ec95c89e-acf9-4d74-8593-2d67c1eeea1b,Elizabeth Knox,105774.80,44,Widowed,Rent,FALSE,Counselling psychologist,35,459
+1a6bf7e7-6131-4a5e-9460-f2c137d028c5,Raymond Hurst,116480.51,62,Single,Other,TRUE,"Conservator, furniture",1,740
+bf88ff03-98ff-4f5d-bd12-f4c435249b40,Ryan Hodges,96832.72,31,Married,Mortgage,TRUE,Industrial buyer,7,587
+c3f7ff43-335b-469b-8282-a3785611f42f,Darren Rojas,132199.26,22,Single,Own,FALSE,Rural practice surveyor,3,460
+39b77d20-84d0-45e1-b5d2-3225130e1575,Sue George,38807.98,34,Married,Other,TRUE,Solicitor,38,576
+5764c538-06b6-419a-bca9-f58b454fbe7d,Matthew Brown,147077.30,27,Widowed,Mortgage,FALSE,Optometrist,17,660
+a569348e-899d-4773-81c0-a35f735fddcb,Kevin Pittman,112714.06,35,Single,Rent,TRUE,Chief Operating Officer,28,604
+419e3dfd-53ce-4955-9574-10d90c143c1c,Matthew Brooks,90096.30,54,Single,Rent,TRUE,Housing manager/officer,28,497
+4cc4b88c-0457-4d73-8826-4075a4e7719b,Nathan Smith,41416.67,53,Single,Mortgage,TRUE,Ophthalmologist,13,734
+2317ac2f-7d83-4087-a2aa-3fda5c2b7af6,Michael Raymond,132751.03,25,Single,Mortgage,FALSE,Banker,28,812
+09942b4e-aaf8-43c0-a9d4-90fb97f7e00a,Amanda Green,91743.00,62,Married,Mortgage,FALSE,Chartered accountant,14,750
+b7469e07-cb22-4aca-82e2-422a022631ae,Jason Stafford,71925.03,42,Married,Other,FALSE,Intelligence analyst,36,836
+28a2e999-9777-43d0-ba5f-cc6a7a9c1fea,Karla Jacobs,129538.76,24,Married,Rent,FALSE,Contractor,12,424
+61356992-bb9d-4316-b1f2-e5419853f5ee,Kathryn Cochran,121017.57,31,Single,Rent,TRUE,Warden/ranger,7,422
+49ac621b-e9bf-4c32-82c8-2ec8e0d6ac2f,Maureen Taylor,33712.34,59,Widowed,Rent,TRUE,Secretary/administrator,33,417
+0ae37c35-c001-4b2c-88f1-1778da1eacf6,Richard Poole,142003.28,63,Widowed,Other,FALSE,Haematologist,8,625
+dcdc2ebc-35d8-4bf2-b4ff-2e39fe5e4818,Sara Wood,105844.42,34,Married,Mortgage,FALSE,Science writer,39,438
+be6f5333-5d30-48d8-8417-4083fcb6e964,Veronica Fritz,64922.01,28,Divorced,Own,FALSE,Technical author,29,383
+edfd2698-2d5e-474f-ade5-b7a9dcfac294,Dr. Tiffany Aguilar,96460.40,45,Divorced,Rent,TRUE,"Pilot, airline",39,598
+657234f5-482f-4b2b-be98-2f75ecd5aace,James Rios,51429.11,59,Married,Mortgage,FALSE,Exhibition designer,24,588
+d15dae1b-802c-4309-9c1a-7d0df81cae24,Daniel Patrick,113342.82,62,Divorced,Own,TRUE,Cabin crew,7,701
+98fcc428-2b03-405a-baec-384ff006004d,Justin Casey,28972.13,50,Single,Mortgage,TRUE,Land,24,827
+a6cf46b6-12f6-42b7-b178-44d2622e2066,Daniel Avila,116366.26,32,Divorced,Other,FALSE,Sports coach,5,522
+5080beff-6deb-42d1-ac27-56500f1fe3fe,Heather Blake,107045.22,23,Divorced,Own,FALSE,Minerals surveyor,8,645
+36c3407b-a2d8-40a6-bada-9811f6e51ed5,Zachary Davis,57939.25,33,Widowed,Rent,TRUE,Chief Operating Officer,0,491
+33d36fb5-7fd7-4c18-8507-927929fd8788,Angie Reyes,48490.87,49,Single,Rent,FALSE,Police officer,1,306
+fab7d733-0698-411b-a56c-5ea4fb34df82,Wesley Freeman,127505.57,45,Married,Own,FALSE,Chartered accountant,4,684
+cf91d37e-c158-4f2c-960d-05b56da9c09f,Kimberly Ryan,102730.30,49,Widowed,Own,TRUE,Armed forces training and education officer,35,469
+9b594097-edea-48cd-b27e-4c109599a21b,Jenna Pearson,127686.58,56,Married,Rent,FALSE,Charity fundraiser,23,659
+d2a1aae1-7bc1-4892-bb85-c1fb77cf0e08,Erica Armstrong,142014.92,63,Married,Mortgage,FALSE,Airline pilot,40,443
+0be26740-98a4-4782-a36c-4d71c085f14c,Dennis Cox,98752.90,35,Married,Own,FALSE,Advertising copywriter,25,441
+51620af6-2da3-467b-9d25-28c41372a89f,Kelly Thomas,53736.72,60,Married,Rent,TRUE,"Editor, commissioning",29,305
+4d453ef7-8b18-4700-8e8e-5dccba5019d5,Ralph Lee MD,34162.14,41,Widowed,Own,TRUE,Glass blower/designer,26,815
+a7231b4d-e3df-41c8-b684-ab1c06629605,Laura Rocha,85013.55,56,Married,Own,TRUE,Software engineer,4,834
+1f7e66d3-80c3-4b00-9967-55ff4d69a046,Melanie Johnson,20306.70,59,Divorced,Own,TRUE,"Designer, graphic",14,665
+f6e1a480-1a3e-4136-ad1d-5de0576badb6,Gina Butler,27159.37,40,Single,Mortgage,TRUE,Advertising account planner,25,378
+45db5b3d-90f0-465e-9209-5b255b2bd0e5,Michael Hayes,131050.87,45,Widowed,Rent,FALSE,"Education officer, museum",7,838
+1f267e16-02e4-401e-83f9-fd8c9cb6202e,Marcus Pineda,129709.37,42,Divorced,Rent,TRUE,Air traffic controller,0,593
+ff3308fb-adf9-44df-bcbf-b0df571bc171,Margaret Herman,99924.31,41,Single,Other,FALSE,Data processing manager,30,614
+5e9b9424-40f4-42c1-b7ff-9dc3588acb1e,Jordan Hunter,143966.85,46,Divorced,Rent,TRUE,Multimedia specialist,39,686
+d18cf183-e28f-44c4-b772-506c09255b82,Lydia Gutierrez,95526.38,51,Widowed,Other,TRUE,"Civil engineer, contracting",16,573
+d7b25f89-5a87-4cc6-8108-d3a050d01d5e,Jennifer Sullivan,93548.06,23,Single,Own,FALSE,Legal secretary,10,740
+29148d1e-7ae7-4dba-96f2-4121c22a9870,Daniel Herrera,84438.52,38,Widowed,Own,TRUE,Occupational psychologist,20,828
+a3a20918-e1e2-4473-8c40-1f7609363c4e,Pamela Baxter,82456.96,26,Divorced,Rent,FALSE,Tourist information centre manager,2,693
+1694ff86-ebdc-4c6a-afb9-ab1bc1549935,Derek Lutz,23090.58,60,Married,Rent,FALSE,Forensic scientist,3,832
+a02ed5cf-f891-4cc0-a472-2227bb06c0c3,John Lee,26570.65,33,Married,Rent,TRUE,"Engineer, civil (consulting)",5,712
+d468346c-fd3f-4692-a570-c9b3abd0b4bf,Angela Garcia,114040.41,58,Single,Rent,TRUE,Legal secretary,13,345
+3f438492-fc8e-41b1-89e7-1be287595b4b,Dominic Green,84269.63,61,Married,Other,TRUE,Building services engineer,3,524
+bc3a3c4e-4fa7-40b9-bc06-20a48b4013ce,Olivia Rich,145646.20,28,Married,Mortgage,TRUE,Insurance broker,4,654
+788633fc-ac99-4109-96bd-2ccb66769638,Christopher Henry,46257.23,45,Widowed,Mortgage,FALSE,Curator,21,402
+22e225d5-8be6-4f88-b6af-f9b9bb826d23,Joshua Williams,61705.54,26,Single,Other,TRUE,Haematologist,20,347
+618c6c2e-56ab-4fa8-8af9-dcad3ee291d0,Summer Martin,110830.83,22,Single,Mortgage,FALSE,Academic librarian,40,394
+f2828ba7-0abc-43dd-b82a-386bd4a75535,Anita Jimenez,63931.67,18,Single,Rent,FALSE,Fisheries officer,25,748
+e2121347-758a-45b8-818c-80be0cfd0dff,Donna Gonzalez,108390.15,54,Widowed,Other,FALSE,Multimedia programmer,34,414
+2d55aa40-80a6-4e5a-9b5d-f050950b5034,Phillip Green,113102.17,55,Single,Rent,TRUE,"Psychologist, clinical",30,666
+cd52c6b5-78cb-47c3-8f5a-81f184b6523e,Bryan Robinson,149033.09,18,Widowed,Rent,TRUE,"Teacher, secondary school",6,847
+7c787004-295b-4fe2-b745-7903da9152f9,Cynthia Garza,30319.46,23,Widowed,Other,TRUE,Advertising art director,15,789
+c71c8e73-3934-4c43-9475-608ee0fb5a28,Dillon Dyer,73664.41,60,Widowed,Other,FALSE,Armed forces training and education officer,36,581
+c58f5997-4a93-496a-b7d4-a6240cc924b7,James Smith,31249.36,46,Single,Other,TRUE,"Scientist, marine",34,402
+4bf14371-f039-4e3e-a838-e94d659baba2,Dominique Steele,80303.55,64,Single,Mortgage,FALSE,Air traffic controller,25,788
+3b2859fa-da2e-42d1-91c6-db40b99bf522,Carlos Alvarez,28108.37,62,Widowed,Other,TRUE,"Education officer, museum",38,648
+984ad07a-a7ec-4913-8061-2725eafc1fba,Richard Watts,72134.40,47,Single,Rent,FALSE,Forensic scientist,28,595
+6310138c-b931-4174-880f-288910332fbf,Anthony Roberson,48272.88,64,Divorced,Rent,TRUE,"Conservator, museum/gallery",2,738
+c444cbd9-c4a2-48e2-a47a-39f0515bcf71,Barbara Johnston,86230.75,49,Single,Mortgage,FALSE,"Conservator, museum/gallery",27,590
+02ef4e34-e4ae-4bd8-a493-d2ef128f4757,Jeremy Burke,137260.31,19,Divorced,Other,FALSE,"Copywriter, advertising",36,748
+45f25539-7e5a-4d3f-b0f5-83019b667430,Erin Burke,36660.94,55,Married,Own,FALSE,Hospital pharmacist,23,706
+83a37750-0001-4e4b-aa07-0ad2df8a6837,Amy Cruz,78208.62,62,Married,Other,FALSE,Music therapist,17,309
+f88cbaf1-e2b8-4b18-8d18-33bb91bf6cfb,Brittany Miller,79087.97,41,Divorced,Other,TRUE,"Engineer, automotive",40,405
+061a3d84-647f-4ddb-b30c-54dff09a7eed,Charles Anderson,22643.30,45,Widowed,Mortgage,TRUE,Housing manager/officer,35,624
+66ae7631-709c-462f-a60f-76ac36c7fd8a,Anthony Rodriguez,121281.68,52,Single,Mortgage,FALSE,Lawyer,1,610
+056f6957-9801-4ee5-bc23-198fa9d6ec7d,Karen Gordon,96171.13,20,Single,Other,FALSE,"Lecturer, higher education",14,524
+7348fb05-5221-42c9-bd23-7325dedc608a,Shawn Mcguire,146907.45,62,Married,Rent,FALSE,"Psychologist, prison and probation services",29,328
+fe014ad7-41a0-496b-acac-a75fee4c7427,Amy Wheeler,54486.85,51,Widowed,Rent,TRUE,Chartered accountant,8,763
+6ed81117-be55-4be2-b24e-dd307102eb10,Jeremy Kim,56656.99,37,Married,Own,FALSE,"Horticulturist, amenity",19,829
+c392e0b1-0b36-42a7-969f-1df39416a58a,Crystal Perez,140004.24,56,Widowed,Rent,TRUE,Forensic psychologist,4,445
+3852775b-9a46-49fc-94ca-16d6008f3cb4,Heather Norris,100727.57,40,Divorced,Rent,TRUE,"Lecturer, higher education",7,811
+ee706aa3-c144-4c3d-9922-1d9733c901cd,Haley Kim,103811.80,36,Single,Other,TRUE,"Surveyor, land/geomatics",5,387
+256148e2-d7a2-47f8-82df-5b80b0d590a7,Sylvia Brown,23973.02,56,Divorced,Rent,TRUE,Medical physicist,26,812
+905caf1f-a537-491b-928b-d756fcfd8f7d,Brooke Cook,46888.51,28,Divorced,Mortgage,FALSE,Dentist,8,565
+2f315587-e7c3-446e-83bf-e78c6cf2e718,Anna Thomas,95789.94,35,Divorced,Other,TRUE,Local government officer,40,512
+f238925d-d318-4e22-98e7-25915f698b46,Shannon Trujillo,141170.12,62,Divorced,Other,TRUE,Lexicographer,27,387
+0e475149-4f0d-4a1b-af40-6a12a178fd92,Jerry Soto,106039.53,65,Widowed,Mortgage,TRUE,Social researcher,21,440
+290cb45e-4287-49c5-90c4-51f2a83f9d64,Gary Randall,88060.45,44,Single,Own,TRUE,"Horticulturist, commercial",1,650
+d9429418-ddd9-45e2-abc2-eaa4f698f05c,Crystal Duncan,149831.90,59,Single,Other,TRUE,"Clinical scientist, histocompatibility and immunogenetics",6,536
+7a80e75f-85e1-4d4f-b5c3-009eca1a2cb3,Kathleen Allen,105794.89,22,Single,Own,FALSE,Social worker,30,561
+23917fbb-def8-4e19-9e3b-f3c6285a283d,Amanda Myers,22741.94,45,Married,Other,TRUE,Ceramics designer,39,692
+d5c901e9-ef6c-45d1-88e2-5930e0933eb2,Diane Davis,58824.56,56,Divorced,Other,TRUE,Professor Emeritus,24,758
+459c9c80-7fc1-438c-8b21-3576431eb9b5,Cindy Harding,110906.26,59,Married,Own,TRUE,Marine scientist,28,415
+0c3a3cc1-809b-4735-ac43-999288f2b1eb,Gregory Small,66068.32,27,Single,Other,TRUE,Diagnostic radiographer,2,447
+9dda4ea8-42d6-4995-9b88-e7d4109999f8,Christopher Tucker,106629.53,56,Single,Other,FALSE,"Nurse, mental health",6,380
+eb09082f-74b2-45d8-866e-60e76a927193,Madeline Newton,43603.08,21,Single,Own,TRUE,Operational investment banker,15,600
+80e7ce58-e9da-4727-84e5-cc804ce430d3,Amy Gonzales,67941.97,56,Widowed,Other,TRUE,"Teacher, early years/pre",20,365
+13938e51-e826-4bd9-b712-326e91b200b4,Travis Smith,83318.44,33,Married,Other,TRUE,"Psychologist, occupational",0,415
+5788f1e9-2375-49f1-8a74-1effe5ff0272,Daniel Rodriguez,101082.16,43,Married,Own,FALSE,"Engineer, broadcasting (operations)",39,790
+3c6a7375-bea0-4006-98dd-92e014a27405,Heather Flores,24136.01,19,Widowed,Own,FALSE,Broadcast presenter,27,398
+ae49cf89-54c2-466f-a6c2-47a5b927b47b,Christine Williams,24165.19,50,Divorced,Mortgage,TRUE,Lexicographer,20,478
+a25ee6ce-9af6-44b7-9c05-9848aca6b1ae,Megan Williams,44864.33,39,Married,Rent,TRUE,Writer,6,638
+7b96b62b-c833-4131-9691-e73a4ee92d30,Robert White,139290.09,28,Widowed,Own,TRUE,"Designer, multimedia",5,522
+27219f7f-3fa8-4a19-bf2e-321a59321e72,Melissa Cox,66651.65,46,Divorced,Own,TRUE,Statistician,18,513
